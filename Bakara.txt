@@ -3,3 +3,5 @@ Adding the second line
 Let modify the this from remote and pull to local.
 I saw the change from remote in local.
 I'm going to push this to figure out if this modification from local will be see in remote.
+I copied this from the master, I'm going to modify and merge toward ths master, and push to remote
+Thanks!
